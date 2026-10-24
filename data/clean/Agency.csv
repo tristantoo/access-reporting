@@ -1,0 +1,41 @@
+AgencyID,AgencyName,SubAgencyName
+1,Department of Agriculture,Office of the Chief Financial Officer
+2,Department of Commerce,National Oceanic and Atmospheric Administration
+3,Department of Commerce,Office of the Secretary
+4,Department of Commerce,U.S. Patent and Trademark Office
+5,Department of Defense,Defense Counterintelligence and Security Agency
+6,Department of Defense,Defense Health Agency
+7,Department of Defense,Defense Human Resources Activity
+8,Department of Defense,Defense Information Systems Agency
+9,Department of Defense,Defense Logistics Agency
+10,Department of Defense,Defense Threat Reduction Agency
+11,Department of Defense,Department of the Air Force
+12,Department of Defense,Department of the Army
+13,Department of Defense,Department of the Navy
+14,Department of Defense,U.S. Special Operations Command
+15,Department of Defense,Washington Headquarters Services
+16,Department of Energy,Department of Energy
+17,Department of Health and Human Services,Centers for Disease Control and Prevention
+18,Department of Health and Human Services,Food and Drug Administration
+19,Department of Health and Human Services,Health Resources and Services Administration
+20,Department of Health and Human Services,Indian Health Service
+21,Department of Health and Human Services,National Institutes of Health
+22,Department of Health and Human Services,Office of the Assistant Secretary for Administration
+23,Department of Homeland Security,Office of Procurement Operations
+24,Department of Homeland Security,Transportation Security Administration
+25,Department of Homeland Security,U.S. Coast Guard
+26,Department of Homeland Security,U.S. Customs and Border Protection
+27,Department of Homeland Security,U.S. Secret Service
+28,Department of Justice,Federal Prison System / Bureau of Prisons
+29,Department of Justice,U.S. Marshals Service
+30,Department of State,Department of State
+31,Department of Transportation,Immediate Office of the Secretary of Transportation
+32,Department of the Interior,Bureau of Indian Affairs and Bureau of Indian Education
+33,Department of the Interior,Departmental Offices
+34,Department of the Treasury,Bureau of Engraving and Printing
+35,Department of the Treasury,Bureau of the Fiscal Service
+36,Department of the Treasury,Internal Revenue Service
+37,General Services Administration,Federal Acquisition Service
+38,General Services Administration,Public Buildings Service
+39,National Science Foundation,National Science Foundation
+40,Smithsonian Institution,Smithsonian Institution

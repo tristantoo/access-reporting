@@ -1,0 +1,17 @@
+[project]
+name = "access-reporting"
+version = "0.1.0"
+description = "Microsoft Access (Jet .mdb) reporting database over public USAspending contract data"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0",
+]
